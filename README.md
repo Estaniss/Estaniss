@@ -20,10 +20,15 @@
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" />
 </div>
-
+<br>
+<br>
 <div>
+<a href="https://github.com/Estaniss">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estaniss&hide=php,blade,shell&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Estaniss&show_icons=true&theme=compact&include_all_commits=true&count_private=true"/>
+</div>
 
 
 
